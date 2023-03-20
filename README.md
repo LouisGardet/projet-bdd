@@ -19,9 +19,13 @@ Use this command on your terminal while in the root of the project.
 ## Connect
 
 Host: localhost
+
 Port: 1433
+
 User: sa
+
 Pass: abcpassword!23
+
 db: tempdb
 
 You can use any sql management tool like TablePlus
